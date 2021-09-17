@@ -12,6 +12,6 @@
 
 ### Keywords: electricity demand forecasting, signal decomposition, deep neural networks, system identification
 
-![alt text](models/NarxModelSearch/DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
+![alt text](DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
 
 *Note: Work in progress.*
