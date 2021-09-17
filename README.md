@@ -17,4 +17,4 @@
 
 
 
-##### *Note: This repository is work in progress.*
+##### *Note: This source code repository is a work in progress.*
