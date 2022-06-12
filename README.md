@@ -1,6 +1,5 @@
 # DR-DNN
 ## Decomposition-Residuals Neural Networks: Hybrid system identification applied to electricity demand forecasting
-#### Keywords: electricity demand forecasting, signal decomposition, deep neural networks, system identification
 
 #### Konstantinos Theodorakos  
 *KU Leuven*  
@@ -11,12 +10,14 @@
 *Leuven, Belgium*
 *Email: madks@hotmail.com*
 
+##### *Note: This source code repository is a work in progress.*
+
 ## Abstract
 Day-ahead energy forecasting systems struggle to provide accurate demand predictions due to pandemic mitigation measures. Decomposition-Residuals Deep Neural Networks (DR-DNN) are hybrid point-forecasting models that can provide more accurate electricity demand predictions than single models within the COVID-19 era. DR-DNN is a novel two-layer hybrid architecture with: a decomposition and a nonlinear layer. Based on statistical tests, decomposition applies robust signal extraction and filtering of input data into: trend, seasonal and residuals signals. Utilizing calendar information, temporal signals are added: sinusoidal day/night cycles, weekend/weekday, etc. The nonlinear layer learns unknown complex patterns from all those signals, with the usage of well-established deep neural networks. DR-DNN outperformed baselines and state-of-the-art deep neural networks on next-day electricity forecasts within the COVID-19 era (from September 2020 to February 2021), both with fixed and Bayesian optimized hyperparameters. Additionally, model interpretability is improved, by indicating which endogenous or exogenous inputs contribute the most to specific hour-ahead forecasts. Residual signals are very important on the first hour ahead, whereas seasonal patterns on the 24th. Some calendar features also ranked high: whether it is day or night, weekend or weekday and the hour of the day. Temperature was the most important exogenous factor.
 
-![alt text](DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
+#### Keywords: electricity demand forecasting, signal decomposition, deep neural networks, system identification
 
-##### *Note: This source code repository is a work in progress.*
+![alt text](DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
 
 ## How to cite DR-DNN
 Authors of scientific papers including methods/techniques inspired by Decomposition-Residuals Neural Networks are encouraged to cite this work as follows:
