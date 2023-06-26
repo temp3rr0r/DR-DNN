@@ -17,7 +17,7 @@ Day-ahead energy forecasting systems struggle to provide accurate demand predict
 
 #### Keywords: electricity demand forecasting, signal decomposition, deep neural networks, system identification
 
-![alt text](DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
+![alt text](pics/DR-DNN_fig1.png "Decomposition-Residuals Neural Networks")
 
 ## How to cite DR-DNN
 Authors of scientific papers including methods/techniques inspired by Decomposition-Residuals Neural Networks are encouraged to cite this work as follows:
