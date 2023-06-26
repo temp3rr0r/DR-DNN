@@ -1,3 +1,7 @@
+numpy
+scipy
+matplotlib
+seaborn
 pandas
 openpyxl
 statsmodels

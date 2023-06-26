@@ -2,12 +2,14 @@
 ## Decomposition-Residuals Neural Networks: Hybrid system identification applied to electricity demand forecasting
 
 #### Konstantinos Theodorakos  
-*KU Leuven*  
+*KU Leuven*
 *Faculty of Engineering Science*  
 *Department of Electrical Engineering (ESAT)*
+
 *STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics*
 *Kasteelpark Arenberg 10*
 *Leuven, Belgium*
+
 *Email: madks@hotmail.com*
 
 ##### *Note: This source code repository is a work in progress.*
