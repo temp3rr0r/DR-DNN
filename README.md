@@ -23,6 +23,13 @@ Day-ahead energy forecasting systems struggle to provide accurate demand predict
 
 ![alt text](pics/DR_DNN_detailed.png "Decomposition-Residuals Neural Networks - detailed view")
 
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ## How to cite DR-DNN
 Authors of scientific papers including methods/techniques inspired by Decomposition-Residuals Neural Networks are encouraged to cite this work as follows:
 
